@@ -1,0 +1,15 @@
+C:\AMIS\DotNetDemo\bin\Debug\net7.0\DotNetDemo.exe
+C:\AMIS\DotNetDemo\bin\Debug\net7.0\DotNetDemo.deps.json
+C:\AMIS\DotNetDemo\bin\Debug\net7.0\DotNetDemo.runtimeconfig.json
+C:\AMIS\DotNetDemo\bin\Debug\net7.0\DotNetDemo.dll
+C:\AMIS\DotNetDemo\bin\Debug\net7.0\DotNetDemo.pdb
+C:\AMIS\DotNetDemo\obj\Debug\net7.0\DotNetDemo.csproj.AssemblyReference.cache
+C:\AMIS\DotNetDemo\obj\Debug\net7.0\DotNetDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\AMIS\DotNetDemo\obj\Debug\net7.0\DotNetDemo.AssemblyInfoInputs.cache
+C:\AMIS\DotNetDemo\obj\Debug\net7.0\DotNetDemo.AssemblyInfo.cs
+C:\AMIS\DotNetDemo\obj\Debug\net7.0\DotNetDemo.csproj.CoreCompileInputs.cache
+C:\AMIS\DotNetDemo\obj\Debug\net7.0\DotNetDemo.dll
+C:\AMIS\DotNetDemo\obj\Debug\net7.0\refint\DotNetDemo.dll
+C:\AMIS\DotNetDemo\obj\Debug\net7.0\DotNetDemo.pdb
+C:\AMIS\DotNetDemo\obj\Debug\net7.0\DotNetDemo.genruntimeconfig.cache
+C:\AMIS\DotNetDemo\obj\Debug\net7.0\ref\DotNetDemo.dll
